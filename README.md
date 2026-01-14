@@ -6,7 +6,8 @@ Dashboard.pbix - Dashboard for the analysis
 README.md - Description of the Project
 social_media_campaign_db.csv - dataset
 
-## Business ProblemThis Power BI dashboard performs a complete **funnel analysis** of paid social media campaigns across **TikTok**, **Instagram**, and **Facebook**.  
+## Business Problem
+This Power BI dashboard performs a complete **funnel analysis** of paid social media campaigns across **TikTok**, **Instagram**, and **Facebook**.  
 The main goal is to understand how effectively different campaign types convert impressions → reach → engagement → clicks, identify the most cost-efficient platforms & strategies, and provide actionable recommendations to **maximize clicks while minimizing cost per acquisition**.
 
 ## Key Feature
