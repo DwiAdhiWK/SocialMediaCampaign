@@ -3,7 +3,9 @@ Social Media Funnel Analysis on Popular Platform for Optimizing Campaign Perform
 
 ## Repository Outline
 Dashboard.pbix - Dashboard for the analysis
+
 README.md - Description of the Project
+
 social_media_campaign_db.csv - dataset
 
 ## Business Problem
