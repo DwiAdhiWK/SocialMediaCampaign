@@ -1,5 +1,5 @@
 # Project Title
-Social Media Funnel Analysis on Popular Platform for Optimizing Campaign Performance
+Social Media Campaign Funnel Analysis Dashboard
 
 ## Repository Outline
 Dashboard.pbix - Dashboard for the analysis
